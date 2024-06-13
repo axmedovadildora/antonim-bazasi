@@ -1,0 +1,2 @@
+# antonim-bazasi
+antonim-bazasi
